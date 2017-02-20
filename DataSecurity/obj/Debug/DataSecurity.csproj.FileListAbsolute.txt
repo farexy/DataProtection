@@ -1,0 +1,7 @@
+D:\Progects\Саша\DataSecurity\DataSecurity\bin\Debug\DataSecurity.exe.config
+D:\Дистанционное\БПіД\DataSecurity\DataSecurity\bin\Debug\DataSecurity.exe.config
+D:\Дистанционное\БПіД\DataSecurity\DataSecurity\bin\Debug\DataSecurity.exe
+D:\Дистанционное\БПіД\DataSecurity\DataSecurity\bin\Debug\DataSecurity.pdb
+D:\Дистанционное\БПіД\DataSecurity\DataSecurity\obj\Debug\DataSecurity.csprojResolveAssemblyReference.cache
+D:\Дистанционное\БПіД\DataSecurity\DataSecurity\obj\Debug\DataSecurity.exe
+D:\Дистанционное\БПіД\DataSecurity\DataSecurity\obj\Debug\DataSecurity.pdb
